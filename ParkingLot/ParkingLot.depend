@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1556083731 source:c:\users\stjepko\desktop\parkinglot\main.cpp
+	<iostream>
+	<istream>
+
